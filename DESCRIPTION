@@ -1,0 +1,11 @@
+Package: migratR
+Type: Package
+Title: migratR
+Version: 0.1.0
+Author: Mitchell Gritts
+Maintainer: Mitchell Gritts <mitchellgritts@gmail.com>
+Description: A series of functions to detect migration timing of migratory animals.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
